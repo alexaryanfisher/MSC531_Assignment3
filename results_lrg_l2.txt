@@ -1,0 +1,8 @@
+Configuration: Larger L2 Cache
+L2 Size: 1MB, L2 Assoc: 16, Block Size: 64
+Simulation Ticks: 25125516
+
+Cache Hit Rates:
+L1 ICache: 96.8% (7056/7286)
+L1 DCache: 93.3% (1890/2025)
+L2 Cache:  0.3% (1/365)
