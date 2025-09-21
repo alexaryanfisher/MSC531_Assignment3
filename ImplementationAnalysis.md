@@ -32,7 +32,7 @@ During the initial build there was one error captured, which was the missing pre
 <em>Successful completion of the build</em>
 ![Successful completion of the build](https://github.com/alexaryanfisher/MSC531_Assignment3/blob/main/images/step3comp.jpg "Step 3: Successful Completion")
 
-The system was designed with a TimingSimpleCPU running at 3GHz and 512MB of DDR3_1600_8x8 memory. The baseline configuration consisted of two L1 caches: information (I) and data (D) caches. Each of these were 32kB in size and had 8-way associativity. In addition to the L1 caches, there was a shared L2 cache with 256kB with 16-way associativity and a block size of 64. All the system creation, parameters, and simulation scripts were included on the `configs/experiment/run_experiment.py` file.
+The system was designed with a TimingSimpleCPU running at 3GHz and 8GB of DDR3_1600_8x8 memory. The baseline configuration consisted of two L1 caches: information (I) and data (D) caches. Each of these were 32kB in size and had 8-way associativity. In addition to the L1 caches, there was a shared L2 cache with 256kB with 16-way associativity and a block size of 64. All the system creation, parameters, and simulation scripts were included on the `configs/experiment/run_experiment.py` file.
 
 
 # Optimization of Cache Parameters
