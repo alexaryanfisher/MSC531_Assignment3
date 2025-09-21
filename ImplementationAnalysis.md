@@ -45,6 +45,7 @@ Figure 6 provides a screenshot of the configuration scripts.
 
 <strong>Figure 6</strong><br> 
 <em>Configuration Scripts</em>
+
 ![Configuration Scripts](https://github.com/alexaryanfisher/MSC531_Assignment3/blob/main/images/configs.jpg "Configuration Scripts")
 
 Each configuration was separately ran and exported to individual files for analysis. To run the scripts the following code was ran reflecting the separate changes.
